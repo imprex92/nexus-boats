@@ -1,0 +1,8 @@
+Är inte säker på hur du ville ha detta import-scriptet... Men här kan du i alla fall, om du vill, 
+- ta och spara boats.json-filen. gå till (/assets/boats.json) i webbläsaren => högerklicka => "spara som"
+- lägg den i "~/Downloads/
+- starta cmd
+- Skriv in scriptet nedan från rad 8 i cmd
+- (Lägger du boats.json på annat ställe måste du även ändra textsträngen som kommer efter "--file")
+
+mongoimport --host nexus-shard-00-01.6zltl.mongodb.net:27017 --db _boatproject --collection _boatproject --type json --file ~/Downloads/boats.json --jsonArray --authenticationDatabase admin --ssl --drop --username guest_user --password Hejkomochhjalpmig

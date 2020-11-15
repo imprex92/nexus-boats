@@ -1,0 +1,183 @@
+[
+	{
+		"id": 1,
+		"modelName": "Zhenyuan",
+		"year": 1882,
+		"price": 32875520.48,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604005047/nexusBoats/Zhenyuan_ucfmhj.jpg"
+	},
+	{
+		"id": 2,
+		"modelName": "Pomornik",
+		"year": 1988,
+		"price": 23445767.50,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604005551/nexusBoats/Pomornik_dfn96k.jpg"
+	},
+	{
+		"id": 3,
+		"modelName": "USS Michigan",
+		"year": 1977,
+		"price": 1472272.72,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604005930/nexusBoats/USS_Michigan__SSBN-727_ngonnb.jpg"
+	},
+	{
+		"id": 4,
+		"modelName": "JS Izumo",
+		"year": 2013,
+		"price": 9715405957.02,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604005764/nexusBoats/JS_Izumo_tglig5.jpg"
+	},
+	{
+		"id": 5,
+		"modelName": "USS Iowa",
+		"year": 1942,
+		"price": 892720000.00,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604005364/nexusBoats/Iowa-class_battleships_treysp.jpg"
+	},
+	{
+		"id": 6,
+		"modelName": "Yamato",
+		"year": 1941,
+		"price": 21331701.26,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604006011/nexusBoats/Yamato_cjkbco.jpg"
+	},
+	{
+		"id": 7,
+		"modelName": "DDH183 Izumo",
+		"year": 2003,
+		"price": 7800000000.00,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604006066/nexusBoats/DDH183_Izumo_umczja.jpg"
+	},
+	{
+		"id": 8,
+		"modelName": "Musashi",
+		"year": 1863,
+		"price": 21333861.47,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604006154/nexusBoats/Musashi_wdrd39.jpg"
+	},
+	{
+		"id": 9,
+		"modelName": "Shikishima",
+		"year": 1898,
+		"price": 46363961.47,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604006231/nexusBoats/HIJMS_Shikishima-1920s_szzbyp.jpg"
+	},
+	{
+		"id": 10,
+		"modelName": "Yamashir",
+		"year": 1917,
+		"price": 31991801.26,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604006281/nexusBoats/Yamashiro_pkmfal.jpg"
+	},
+	{
+		"id": 11,
+		"modelName": "Dufour 32 Classic",
+		"year": 2000,
+		"price": 320000,
+		"sailBoat": true,
+		"motor": false,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604008994/nexusBoats/Dufour_32_Classic_ccysrz.jpg"
+	},
+	{
+		"id": 12,
+		"modelName": "Scampi 30",
+		"year": 1979,
+		"price": 64000,
+		"sailBoat": true,
+		"motor": false,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604009116/nexusBoats/Scampi_30_yiogbs.jpg"
+	},
+	{
+		"id": 13,
+		"modelName": "Seascape 18",
+		"year": 2017,
+		"price": 279000,
+		"sailBoat": true,
+		"motor": false,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1604009255/nexusBoats/Seascape_18_g858wv.jpg"
+	},
+	{
+		"id": 14,
+		"modelName": "Nimbus T8",
+		"year": 2020,
+		"price": 2145000.00,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1605473120/nexusBoats/boat_014_mivlmf.jpg"
+	},
+	{
+		"id": 15,
+		"modelName": "Nimbus Tender 9",
+		"year": 2000,
+		"price": 123444.47,
+		"sailBoat": false,
+		"motor": true,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1605473236/nexusBoats/boat_015_mt1nf6.jpg"
+	},
+	{
+		"id": 16,
+		"modelName": "Don Brooke Pilothouse",
+		"year": 1982,
+		"price": 30000.47,
+		"sailBoat": true,
+		"motor": false,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1605473408/nexusBoats/boat_016_vrl9g6.jpg"
+	},
+	{
+		"id": 17,
+		"modelName": "Sunreef Sailing 70",
+		"year": 2012,
+		"price": 1000000.26,
+		"sailBoat": true,
+		"motor": false,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1605473541/nexusBoats/boat_017_nwevxu.jpg"
+	},
+	{
+		"id": 18,
+		"modelName": "Dufour 32 Classic",
+		"year": 2000,
+		"price": 320000,
+		"sailBoat": true,
+		"motor": false,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1605473668/nexusBoats/boat_018_dgm4zp.jpg"
+	},
+	{
+		"id": 19,
+		"modelName": "Herreshoff John G Alden Bermudan Yawl",
+		"year": 1937,
+		"price": 6000,
+		"sailBoat": true,
+		"motor": false,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1605473801/nexusBoats/boat_019_lrefjr.jpg"
+	},
+	{
+		"id": 20,
+		"modelName": "Little Harbor 63",
+		"year": 1987,
+		"price": 27900,
+		"sailBoat": true,
+		"motor": false,
+		"picURL": "https://res.cloudinary.com/allseeingeye/image/upload/v1605473899/nexusBoats/boat_020_x1hmdk.jpg"
+	}
+	]
+	
